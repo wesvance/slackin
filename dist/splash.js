@@ -100,7 +100,7 @@ function style() {
     });
 
     css.add('.logo.slack', {
-      'background-image': 'url(assets/fas.svg)'
+      'background-image': 'url(assets/slack.svg)'
     });
 
     if (logo) {
